@@ -1,0 +1,23 @@
+body {
+    background-color: #e3f6f5;
+}
+
+hr{  /* to change horizontal line color and other things*/   /*and this is how we comment in CSS*/
+    border-style: none; /*uper, right,left ka none kar deya style*/
+    border-top-style: dotted; /*neeche wale ke style dotted kar deya hai*/
+    border-color: grey; /*dottedd part ka color */
+    border-width: 5px; /*size of the dots yaha se change kar deya hai*/
+    width: 10%; /*border sirf 10% screen per show ho isleye we wrote this part*/
+}
+
+h1{
+    color: #385170;
+}
+
+h3{
+    color: #385170;
+}
+
+.circular{
+    border-radius: 100%;
+}
